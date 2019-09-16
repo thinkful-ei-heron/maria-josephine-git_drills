@@ -1,2 +1,2 @@
-let myTeam = 'Maria and Josephine';
+let myTeam = "maria and josephine";
 console.log(myTeam);
